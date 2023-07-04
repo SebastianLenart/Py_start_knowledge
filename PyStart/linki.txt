@@ -1,0 +1,33 @@
+https://docs.python.org/3/library/dataclasses.html # dataclass
+
+impact mapping, pair programming, mob programming
+
+do zarzadzania taskami:
+github issues
+atlassian Jira
+Asana
+Trello
+Monday
+
+MVC - Model View Controller
+MVT - Model View Template
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
