@@ -2,6 +2,7 @@ class Sample:
     def __init__(self, a):
         self.a = a
 
+    # do sortowania
     def __lt__(self, other):
         return self.a < other.a
 

@@ -35,9 +35,10 @@ class BaseEmployee:
         difference = today - self.date_of_employment
         return difference.days
 
+    # do sortowania
     def __lt__(self, other):
         return self.employment_time < other.employment_time
-
+    # do wyswietlania - sortowania
     def __repr__(self):
         return self.first_name
 
