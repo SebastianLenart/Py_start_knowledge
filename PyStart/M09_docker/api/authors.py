@@ -1,5 +1,5 @@
 from flask import Response
-from ..db import get_connection
+from db import get_connection
 from json import dumps
 
 
